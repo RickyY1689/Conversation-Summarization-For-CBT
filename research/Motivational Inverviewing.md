@@ -37,7 +37,7 @@ Questions This Week
   - In the middle sits guiding style
 - MI follows a "guiding" style
 
-<img src="Book Notes.assets/image-20220928155148469.png" alt="image-20220928155148469" style="zoom:50%;" />
+<img src="markdown.assets/image-20220928155148469.png" alt="image-20220928155148469" style="zoom:50%;" />
 
 - Often with helpers there is a "righting reflex", the desire to fix what seems wrong with people, relying particularly on directing
 
@@ -71,11 +71,11 @@ Questions This Week
 
 - Is there anything planned after the summarization, ie a call to action, "what else"?
 
-- Spirit of MI![image-20221012135758857](Book Notes.assets/image-20221012135758857.png)
+- Spirit of MI![image-20221012135758857](markdown.assets/image-20221012135758857.png)
 
 - Avoid labling, reframe the situation and approach with a patient first mentality
 
-  <img src="Book Notes.assets/image-20221011174552877.png" alt="image-20221011174552877" style="zoom:33%;" />
+  <img src="markdown.assets/image-20221011174552877.png" alt="image-20221011174552877" style="zoom:33%;" />
 
   - if they want to label themselves they can, but no need to get into debates about labeling
 
@@ -87,11 +87,11 @@ Questions This Week
 
 - Questions/areas to help engagement
 
-  <img src="Book Notes.assets/image-20221011175220841.png" alt="image-20221011175220841" style="zoom:33%;" />
+  <img src="markdown.assets/image-20221011175220841.png" alt="image-20221011175220841" style="zoom:33%;" />
 
 - DO NOT ACT LIKE YOU ARE BETTER THAN THE CLIENT
 
-  ![image-20221011183100871](Book Notes.assets/image-20221011183100871.png)
+  ![image-20221011183100871](markdown.assets/image-20221011183100871.png)
 
 - Should the summarizer contain reflective statements
 
@@ -100,10 +100,10 @@ Questions This Week
 - Reflective listening focuses on the client's narrative rather than imposing your own
 
 - Simple reflections add little or nothing to what the patient has said
-- ![image-20221011184943930](Book Notes.assets/image-20221011184943930.png)
+- ![image-20221011184943930](markdown.assets/image-20221011184943930.png)
 - If a reflection grows long, remember that the person is most likely to respond to what you said last
 - you decide what to reflect and what to ignore, what to emphasize or de-emphasize, and what words to use in capturing meaning. Reflection can therefore be used to shine a light on certain aspects of what a person has said or to reframe its meaning slightly.
-- ![image-20221011185517383](Book Notes.assets/image-20221011185517383.png)
+- ![image-20221011185517383](markdown.assets/image-20221011185517383.png)
 - Summary should include some affirmation?
 
 
