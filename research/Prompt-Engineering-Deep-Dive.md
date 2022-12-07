@@ -13,6 +13,7 @@
   - https://www.semanticscholar.org/paper/Prompt-scoring-system-for-dialogue-summarization-Prodan-Pelican/0d08572c4ec1974478d6ba8467b6e7be30867a0d
   - https://www.semanticscholar.org/paper/An-Information-theoretic-Approach-to-Prompt-Without-Sorensen-Robinson/d53e70d834243d3d8d4b621c0c52dfec26081155
   - https://www.semanticscholar.org/paper/Design-Guidelines-for-Prompt-Engineering-Generative-Liu-Chilton/bfef309db9902dbcac34cae7a54670f9513ef6f0
+  - https://arxiv.org/pdf/2103.12407.pdf
 
 - Papers on Text Summarization
 
