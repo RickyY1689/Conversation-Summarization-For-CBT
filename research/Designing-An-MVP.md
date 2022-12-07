@@ -149,7 +149,7 @@ There were some minor issues in the summaries that did not meet expectations:
     "result": "You enjoy the feeling and physical act of smoking, but you dislike the smell. You don't want to make a change, but you do realize that it will require discipline and persistence. To make the change, you need to take steps to keep yourself busy in other ways."}
     ```
 
-  - Buggy Result
+  - Buggy Result:
 
     ```json
     {"prompt": "Convert from third to first person:",
