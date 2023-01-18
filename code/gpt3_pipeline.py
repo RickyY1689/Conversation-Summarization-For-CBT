@@ -4,7 +4,8 @@ import openai
 import time
 import re
 
-openai.api_key = "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"
+with open('openai_key.txt') as f:
+    openai.api_key = f.read()
 
 input_path = "renamed_cleaned_transcripts.txt"
 output_path = "1_10_1.json"

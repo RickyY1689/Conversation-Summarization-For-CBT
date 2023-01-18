@@ -5,7 +5,8 @@ import time
 import re
 
 for num in range(0, 5):
-    openai.api_key = os.getenv("OPENAI_API_KEY")
+    with open('openai_key.txt') as f:
+        openai.api_key = f.read()
     input_path = "cleaned_transcripts.txt"
     output_path = f"1_10_1_MVP_{num}_temp80.json"
     postprocessing = False

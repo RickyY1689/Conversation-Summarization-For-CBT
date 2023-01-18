@@ -9,7 +9,8 @@ class Preds(Enum):
     NO = 0
 
 def zero_shot():
-    openai.api_key = os.getenv("OPENAI_API_KEY")
+    with open('openai_key.txt') as f:
+        openai.api_key = f.read()
     dir_path = os.path.dirname(os.path.realpath(__file__))
 
     test_df = pd.read_csv(f"{dir_path}/../data/righting_reflex.csv", header=None, names=['text', 'label'])
