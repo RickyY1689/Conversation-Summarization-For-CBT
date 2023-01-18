@@ -7,7 +7,7 @@ The goal by the end of this experiment is to have generated a prompt or prompt p
 We will define a "good enough" summary as the following:
 
 - Covers the majority of points the user has brought up and the reflections from the bot
-- Has no anaphora issues (User, Bot, I, You, etc.), 
+- Has no anaphora issues (User, Bot, I, You, etc.)
 - Does not give a surface level summary (ie "You and I are discussing smoking...")
 
 This is our desired summary outcome.
@@ -104,7 +104,7 @@ Since method 2 would result in more prompts slowing down overall runtime, method
 
 **Incorporations from Prior Experiments:** Preprocess Text, DaVinci-003
 
-**Baseline Hitrate:** 90%
+##### **Baseline Hitrate:** 90%
 
 **Parameters**:
 
@@ -295,12 +295,24 @@ Additionally, it was evident that there exists cleaver postprocessing steps alon
 Now that an MVP has been designed there are three logical next steps in my opinion:
 
 1. Continuing improving the quality of the summaries
+
    - This is of course the most obvious one and would entail adding a last sentence to see if the user would like to add anything, checking for righting reflexes and working on a resolution, and so on
+
 2. Attempting to fine-tune a smaller model by using our current MVP to generate the training data
+
    - A more experimental idea which could yield some very interesting results
    - The inspiration here comes from *knowledge distilation* when a large model is trained and a smaller model is then trained by attempting to fit its layers onto the layers of the larger model in a 1 to $n$ manner
    - The implementation here would be different and wouldn't be actual *knowledge distilation*
+
 3. Attempt the MVP on more sophisticated chat transcripts
+
    - We've previously discussed that the current chat transcripts are not the latest transcripts, with the new model having more sophistication
    - It would be worthwhile to see how well our MVP performs in this more complex environment
+
+4. ###### If we want to ever go back to exploring a prompt pipeline, [ChatGPT](https://openai.com/blog/chatgpt/) could be a strong solution due to its abilitiy to infer on prior messages
+
+```python
+fauci_df.loc[(fauci_df["user"].isin(["realdonaldtrump", "antknowsmaui"]) & bool(set(fauci_df["user"]) & set(["realdonaldtrump", "antknowsmaui"])))].head(25)
+
+```
 

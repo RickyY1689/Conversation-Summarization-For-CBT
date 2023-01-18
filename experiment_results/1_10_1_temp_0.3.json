@@ -1,0 +1,302 @@
+{
+    "0": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: how it relaxes me\nme: You enjoy the way smoking calms you.\nme: Now, what is the thing you like least about smoking?\nyou: the smell\nme: You dislike the smell of cigarettes.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: quiting smoking\nme: You want to make a conscious choice to quit smoking.\nme: What will it look like when you have made this change in your smoking habit?\nyou: i will look more healthy\nme: You realize that smoking is harmful to your health and you are determined to make changes to improve your appearance.\nme: Finally, what are the steps you need to take to make this change?\nyou: willpower\nme: You realize that making changes will require your willpower.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between the two people focused on the topic of smoking and the changes that the person wanted to make. The person expressed that they liked how smoking relaxed them, but disliked the smell. They also wanted to make a conscious choice to quit smoking in order to look more healthy. Finally, they acknowledged that making changes would require their willpower."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I liked how smoking relaxed me, but I disliked the smell. I wanted to make a conscious choice to quit smoking in order to look more healthy. I acknowledged that making changes would require my willpower."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You liked how smoking relaxed you, but you disliked the smell. You wanted to make a conscious choice to quit smoking in order to look more healthy. You acknowledged that making changes would require your willpower."
+        }
+    },
+    "1": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: I like the feeling I get from it of course, and also, I enjoy the physical act.\nme: You enjoy the fact that smoking makes you feel calm and relaxed.\nme: Now, what is the thing you like least about smoking?\nyou: The smell\nme: You dislike the smell of cigarettes.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: Nothing actually\nme: You want to quit smoking completely.\nme: What will it look like when you have made this change in your smoking habit?\nyou: I don't want to make a change.\nme: You realize that making the change will require discipline and persistence.\nme: Finally, what are the steps you need to take to make this change?\nyou: Well, if I wanted to smoke less, I suppose I would possibly try to keep myself busy in other ways\nme: You realize that it is not just a matter of smoking less, but also of staying busy in other ways.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation summarized is about smoking and the changes one might make to their smoking habit. The person likes the feeling and physical act of smoking, but dislikes the smell. They do not want to make any changes to their smoking habit, but realize that it will require discipline and persistence. To make the change, they need to keep themselves busy in other ways."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I like the feeling and physical act of smoking, but I dislike the smell. I do not want to make any changes to my smoking habit, but I realize that it will require discipline and persistence. To make the change, I need to keep myself busy in other ways."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You like the feeling and physical act of smoking, but you dislike the smell. You do not want to make any changes to your smoking habit, but you realize that it will require discipline and persistence. To make the change, you need to keep yourself busy in other ways."
+        }
+    },
+    "2": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: stress relief\nme: You enjoy the relief that smoking provides you.\nme: Now, what is the thing you like least about smoking?\nyou: Health issues.\nme: You are aware of the health risks associated with smoking and are concerned about your own health.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: Smoking among friends.\nme: You would like to stop smoking among your friends.\nme: What will it look like when you have made this change in your smoking habit?\nyou: Stop smoking or smoking less\nme: You will stop smoking completely.\nme: Finally, what are the steps you need to take to make this change?\nyou: Taking nicotine tablets.\nme: You realize that you need to replace smoking with nicotine replacement therapy (NRT).",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation summarized is about the person's smoking habit and their desire to change it. They discussed the things they like and dislike about smoking, and the change they would like to make, which is to stop smoking or smoke less among their friends. They concluded that the steps they need to take to make this change is to take nicotine tablets as a form of nicotine replacement therapy (NRT)."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I like and dislike smoking for different reasons. I want to make a change and either stop smoking or smoke less around my friends. To do this, I need to take nicotine tablets as a form of nicotine replacement therapy (NRT)."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You like and dislike smoking for different reasons. You want to make a change and either stop smoking or smoke less around your friends. To do this, you need to take nicotine tablets as a form of nicotine replacement therapy (NRT)."
+        }
+    },
+    "3": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: wszystko\nme: You enjoy the smell of cigarettes.\nme: Now, what is the thing you like least about smoking?\nyou: cough\nme: You dislike how it makes you breathe and how unpleasant it is to have a cough.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: all\nme: You want to stop smoking altogether.\nme: What will it look like when you have made this change in your smoking habit?\nyou: I don't know, I have to replace it with something but I don't know what\nme: You don't know how you will replace smoking with something else.\nme: Finally, what are the steps you need to take to make this change?\nyou: I need a replacement, for starters\nme: You want a substitute smoking habit and you believe that your current one is causing harm.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation summarized is about smoking and the changes one wants to make in their smoking habit. The person mentioned that they enjoy the smell of cigarettes, but dislike how it makes them breathe and how unpleasant it is to have a cough. They want to stop smoking altogether, but don't know how to replace it with something else. They need a replacement and believe that their current smoking habit is causing harm."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I enjoy the smell of cigarettes, but I don't like how it makes me breathe and how unpleasant it is to have a cough. I want to stop smoking altogether, but I don't know how to replace it with something else. I need a replacement and I believe that my current smoking habit is causing harm."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You enjoy the smell of cigarettes, but don't like how it makes you breathe and how unpleasant it is to have a cough. You want to stop smoking altogether, but don't know how to replace it with something else. You need a replacement and believe that your current smoking habit is causing harm."
+        }
+    },
+    "4": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: Flavor and relaxation\nme: You enjoy the taste of tobacco and are looking for ways to relax.\nme: Now, what is the thing you like least about smoking?\nyou: Health damage\nme: You are concerned about the health effects of smoking.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: Number of cigarretes\nme: You'd like to reduce the number of cigarettes you smoke.\nme: What will it look like when you have made this change in your smoking habit?\nyou: Better health and odor\nme: You believe that by making changes to your smoking habit, you will be able to improve our health and smell.\nme: Finally, what are the steps you need to take to make this change?\nyou: Discipline, \nme: You realize that making this change will require discipline.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation summarized is about the person's smoking habit and the changes they would like to make. They enjoy the flavor and relaxation that smoking provides, but are concerned about the health damage it causes. They would like to reduce the number of cigarettes they smoke in order to improve their health and smell. They understand that making this change will require discipline."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I enjoy the flavor and relaxation that smoking provides, but I am concerned about the health damage it causes. I would like to reduce the number of cigarettes I smoke in order to improve my health and smell. I understand that making this change will require discipline."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You enjoy the flavor and relaxation that smoking provides, but you are concerned about the health damage it causes. You would like to reduce the number of cigarettes you smoke in order to improve your health and smell. You understand that making this change will require discipline."
+        }
+    },
+    "5": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: Flavor and relaxation\nme: You enjoy the taste of tobacco and are looking for ways to relax.\nme: Now, what is the thing you like least about smoking?\nyou: Health damage\nme: You are concerned about the health effects of smoking.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: Number of cigarretes\nme: You'd like to reduce the number of cigarettes you smoke.\nme: What will it look like when you have made this change in your smoking habit?\nyou: Better health and odor\nme: You believe that by making changes to your smoking habit, you will be able to improve your health and smell.\nme: Finally, what are the steps you need to take to make this change?\nyou: Discipline, \nme: You realize that making this change will require discipline.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation summarized is about the person's smoking habit and their desire to make changes to it. They enjoy the flavor and relaxation that smoking provides, but are concerned about the health damage it causes. They would like to reduce the number of cigarettes they smoke in order to improve their health and smell. To make this change, they understand that they will need to have discipline."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I enjoy the flavor and relaxation that smoking provides, but I am concerned about the health damage it causes. I would like to reduce the number of cigarettes I smoke in order to improve my health and smell. To make this change, I understand that I will need to have discipline."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You enjoy the flavor and relaxation that smoking provides, but you are concerned about the health damage it causes. You would like to reduce the number of cigarettes you smoke in order to improve your health and smell. To make this change, you understand that you will need to have discipline."
+        }
+    },
+    "6": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: combining it with cannabis\nme: You enjoy mixing your smoking and cannabis habit together.\nme: Now, what is the thing you like least about smoking?\nyou: the health implications\nme: You are aware that smoking causes serious health problems and you worry about the effect of this habit on your own health.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: the amount I smoke\nme: You realize that a reduction in the amount of cigarettes you smoke will help you to live a healthier life.\nme: What will it look like when you have made this change in your smoking habit?\nyou: hopefully healthier lungs and general health\nme: You believe that by making this change, you can improve your overall health.\nme: Finally, what are the steps you need to take to make this change?\nyou: slowly reducing the amount that I smoke\nme: You realize that decreasing the amount of cigarettes you smoke daily will help you quit smoking.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between the two parties was about the smoking habit of the other person. They discussed the things they liked and disliked about smoking, as well as what changes they would like to make. The person wanted to reduce the amount of cigarettes they smoked, and believed that this would lead to better health. They planned to do this by slowly reducing the amount they smoked daily."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I was having a conversation with someone about their smoking habit. We discussed what I liked and disliked about smoking, as well as what changes I wanted to make. I wanted to reduce the amount of cigarettes I smoked, and believed that this would lead to better health. I planned to do this by slowly reducing the amount I smoked daily."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You were having a conversation with someone about their smoking habit. You discussed what you liked and disliked about smoking, as well as what changes you wanted to make. You wanted to reduce the amount of cigarettes you smoked, and believed that this would lead to better health. You planned to do this by slowly reducing the amount you smoked daily."
+        }
+    },
+    "7": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: Having to relax and unwind, taking short breaks at work. \nme: You enjoy relaxing by smoking cigarettes.\nme: Now, what is the thing you like least about smoking?\nyou: Being addicted to it. \nme: You are aware that cigarettes can cause addiction. \nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: Atleast smoke 2 cigarettes per day\nme: You want to reduce the number of cigarettes you smoke per day.\nme: What will it look like when you have made this change in your smoking habit?\nyou: Smoking less\nme: You want to reduce the amount of cigarettes you smoke.\nme: Finally, what are the steps you need to take to make this change?\nyou: Smoke in the morning and in the evening. \nme: You will smoke in the morning and at night.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation was about the person's smoking habit and how they would like to change it. They mentioned that they enjoy the relaxation and break from work that smoking provides, but are aware of the addiction it can cause. They want to reduce the number of cigarettes they smoke per day and plan to do so by smoking in the morning and at night."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I was having a conversation about my smoking habit and how I would like to change it. I enjoy the relaxation and break from work that smoking provides, but I am aware of the addiction it can cause. I want to reduce the number of cigarettes I smoke per day and plan to do so by smoking in the morning and at night."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You were having a conversation about your smoking habit and how you would like to change it. You enjoy the relaxation and break from work that smoking provides, but you are aware of the addiction it can cause. You want to reduce the number of cigarettes you smoke per day and plan to do so by smoking in the morning and at night."
+        }
+    },
+    "8": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: I dont know really, I just like that feeling\nme: You like the fact that smoking gives you a buzz.\nme: Now, what is the thing you like least about smoking?\nyou: That its bad for my health\nme: You dislike that cigarettes are addictive and can harm your health.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: I would like to reduce smoking slowly then quit at all\nme: You want to gradually reduce the number of cigarettes you smoke.\nme: What will it look like when you have made this change in your smoking habit?\nyou: i would feel better with myself and also proud\nme: You believe that by making this change, your life will improve.\nme: Finally, what are the steps you need to take to make this change?\nyou: Create a detailed plan with exact Number of cigarettes that i am allowed to smoke each day\nme: You realize that you will need to make changes in your smoking habit.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between the two people was about smoking. The person mentioned that they liked the feeling that smoking gave them, but disliked that it was bad for their health. They wanted to reduce the number of cigarettes they smoked and believed that doing so would improve their life. To make this change, they needed to create a detailed plan with an exact number of cigarettes they were allowed to smoke each day."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I liked the feeling that smoking gave me, but I disliked that it was bad for my health. I wanted to reduce the number of cigarettes I smoked and believed that doing so would improve my life. To make this change, I needed to create a detailed plan with an exact number of cigarettes I was allowed to smoke each day."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You like the feeling that smoking gives you, but dislike that it is bad for your health. You want to reduce the number of cigarettes you smoke and believe that doing so will improve your life. To make this change, you need to create a detailed plan with an exact number of cigarettes you are allowed to smoke each day."
+        }
+    },
+    "9": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: The habit of it - it either fills the time, is a stress release or social \nme: You enjoy the fact that smoking helps you cope with stressful situations.\nme: Now, what is the thing you like least about smoking?\nyou: the health consequences\nme: You dislike the health effects of smoking.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: i'd like to just stop completely \nme: You want to quit smoking completely.\nme: What will it look like when you have made this change in your smoking habit?\nyou: i won't smoke anymore\nme: You realize that quitting smoking is a long process, and you are willing to put in the effort to succeed.\nme: Finally, what are the steps you need to take to make this change?\nyou: to stop smoking on nights out mostly \nme: You will need to find other ways to cope with your smoking habit.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation summarized is about smoking and the changes the person wants to make. The person enjoys the habit of smoking, but dislikes the health consequences. They want to quit smoking completely and are willing to put in the effort to do so. To make this change, they need to find other ways to cope with their smoking habit, such as not smoking on nights out."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I enjoy the habit of smoking, but I dislike the health consequences. I want to quit smoking completely and am willing to put in the effort to do so. To make this change, I need to find other ways to cope with my smoking habit, such as not smoking on nights out."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You enjoy the habit of smoking, but you dislike the health consequences. You want to quit smoking completely and are willing to put in the effort to do so. To make this change, you need to find other ways to cope with your smoking habit, such as not smoking on nights out."
+        }
+    },
+    "10": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: The joy that I feel\nme: You enjoy feeling happy when you smoke. \nme: Now, what is the thing you like least about smoking?\nyou: the smell in my clothes\nme: You are aware of how unpleasant cigarettes can be and are aware that this bothers you.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: reduce consumption\nme: You want to reduce the amount of cigarettes you smoke.\nme: What will it look like when you have made this change in your smoking habit?\nyou: I will feel happy\nme: You believe making changes to your smoking habit will bring you happiness.\nme: Finally, what are the steps you need to take to make this change?\nyou: First to reduce, second to definitively cut\nme: You realize that tobacco use is a habit and you will need to make changes at first. What are the steps you need to take to reduce your tobacco use?",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between us was about smoking and the changes that the person wanted to make. They expressed that they enjoyed feeling happy when they smoked, but disliked the smell of their clothes. They wanted to reduce their consumption and believed that making changes to their smoking habit would bring them happiness. The steps they needed to take to make this change were to reduce their use and then definitively cut it."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I was having a conversation with myself about smoking and the changes I wanted to make. I expressed that I enjoyed feeling happy when I smoked, but disliked the smell of my clothes. I wanted to reduce my consumption and believed that making changes to my smoking habit would bring me happiness. The steps I needed to take to make this change were to reduce my use and then definitively cut it."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You were having a conversation with yourself about smoking and the changes you wanted to make. You expressed that you enjoyed feeling happy when you smoked, but disliked the smell of your clothes. You wanted to reduce your consumption and believed that making changes to your smoking habit would bring you happiness. The steps you needed to take to make this change were to reduce your use and then definitively cut it."
+        }
+    },
+    "11": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: Smoking punctuates my day\nme: You enjoy how smoking fills up your free time.\nme: Now, what is the thing you like least about smoking?\nyou: I suspect it makes me feel more tired than I would feel if I didn't smoke.\nme: You find that smoking causes you to feel tired, which can negatively impact your day-to-day activities.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: Nothing.\nme: You're not interested in making changes to your smoking habit.\nme: What will it look like when you have made this change in your smoking habit?\nyou: What will what look like?\nme: You expect to feel better about yourself because of your new smoking habit.\nme: Finally, what are the steps you need to take to make this change?\nyou: Stop smoking! But I don't need to take this step as I don't wish to at the moment. Maybe, one day, I will.\nme: You realize that it is important for you to quit smoking, but you don't want to at the moment.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation was about smoking and the person's attitude towards it. They expressed that they enjoy how smoking punctuates their day, but they also suspect it makes them feel more tired. They don't want to make any changes to their smoking habit, but they recognize that quitting would be beneficial. They understand that one day they may need to take the step to quit, but for now they are content with their smoking habit."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I enjoy how smoking punctuates my day, but I suspect it makes me feel more tired. I don't want to make any changes to my smoking habit, but I recognize that quitting would be beneficial. I understand that one day I may need to take the step to quit, but for now I am content with my smoking habit."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You enjoy how smoking punctuates your day, but you suspect it makes you feel more tired. You don't want to make any changes to your smoking habit, but you recognize that quitting would be beneficial. You understand that one day you may need to take the step to quit, but for now you are content with your smoking habit."
+        }
+    },
+    "12": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: relaxing, it makes breaks feel like a break\nme: You enjoy the feeling of relaxation that smoking provides.\nme: Now, what is the thing you like least about smoking?\nyou: my addiction and the way I feel I have to have a cigarette, plus how much it costs\nme: You dislike the fact that cigarettes are addictive and you also dislike the financial cost of smoking.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: I would like to stop feeling like I have to smoke in certain cirmustances, like when I'm out drinking with certain friends. It feels odd not to smoke then even when I don't feel I need a cigerette\nme: You realize that sometimes, smoking can be an integral part of social gatherings and that you often feel pressured into smoking by those around you. \nme: What will it look like when you have made this change in your smoking habit?\nyou: I'll be relaxed in these cirumstances not smoking even if other people are smoking. I won't feel the need to join in\nme: You will be more relaxed and less stressed when making this change in your smoking habit. \nme: Finally, what are the steps you need to take to make this change?\nyou: perhaps make a point of going out with friends who don't smoke more often.  I need to get more comfortable being out with friends and not smoking, so not joining in until I feel more comfortable about\nme: You realize that you need to be comfortable being out with your friends without cigarettes, and you will try to do this by making it a point to go out alone.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation summarized is about the person's smoking habit and the changes they would like to make. They enjoy the feeling of relaxation that smoking provides, but dislike the addiction and financial cost. They would like to stop feeling like they have to smoke in certain circumstances and would like to be more relaxed and less stressed when making this change. To make this change, they plan to make a point of going out with friends who don't smoke more often and get more comfortable being out with friends without cigarettes."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I enjoy the feeling of relaxation that smoking provides, but I dislike the addiction and financial cost. I would like to stop feeling like I have to smoke in certain circumstances and would like to be more relaxed and less stressed when making this change. To make this change, I plan to make a point of going out with friends who don't smoke more often and get more comfortable being out with friends without cigarettes."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You enjoy the feeling of relaxation that smoking provides, but you dislike the addiction and financial cost. You would like to stop feeling like you have to smoke in certain circumstances and would like to be more relaxed and less stressed when making this change. To make this change, you plan to make a point of going out with friends who don't smoke more often and get more comfortable being out with friends without cigarettes."
+        }
+    },
+    "13": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: the feeling it gives me of anti-stress\nme: Smoking helps you deal with stressful situations.\nme: Now, what is the thing you like least about smoking?\nyou: the smell\nme: You dislike the smell of cigarettes.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: i would like to smoke a lot least \nme: You want to smoke less.\nme: What will it look like when you have made this change in your smoking habit?\nyou: i dont know how to answer\nme: You are not sure how to respond to the question. \nme: Finally, what are the steps you need to take to make this change?\nyou: motivation to do so\nme: You need to be motivated to make this change.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between us was about smoking and the changes the speaker wanted to make. They said they liked the feeling of anti-stress that smoking gave them, but disliked the smell. They wanted to smoke less, but weren't sure how that would look. The speaker concluded that they needed to be motivated to make the change."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I was having a conversation about smoking and the changes I wanted to make. I said I liked the feeling of anti-stress that smoking gave me, but disliked the smell. I wanted to smoke less, but wasn't sure how that would look. I concluded that I needed to be motivated to make the change."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You were having a conversation about smoking and the changes you wanted to make. You said you liked the feeling of anti-stress that smoking gave you, but disliked the smell. You wanted to smoke less, but weren't sure how that would look. You concluded that you needed to be motivated to make the change."
+        }
+    },
+    "14": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: the relaxation whist having one\nme: You enjoy the feeling of being relaxed after a cigarette.\nme: Now, what is the thing you like least about smoking?\nyou: smell\nme: You dislike the way cigarette smoke smells.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: the cost of cigarettes \nme: You realize that smoking is costly and you would like to reduce or stop it.\nme: What will it look like when you have made this change in your smoking habit?\nyou: i would have more money\nme: You believe making this change in your smoking habit will improve your financial situation.\nme: Finally, what are the steps you need to take to make this change?\nyou: work out what the yearly cost is as it may shock me into quitting by knowing how much im spending\nme: You realize that if you quit smoking now, you'll be surprised by how much you're spending over the next year.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between the two people focused on the person's smoking habit. They discussed what the person likes and dislikes about smoking, what they would like to change, and what it will look like when they have made the change. The person also identified the steps they need to take to make the change, which is to work out the yearly cost of smoking in order to shock themselves into quitting."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I focused the conversation on my smoking habit. I discussed what I like and dislike about smoking, what I would like to change, and what it will look like when I have made the change. I also identified the steps I need to take to make the change, which is to work out the yearly cost of smoking in order to shock myself into quitting."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You focus the conversation on your smoking habit. You discuss what you like and dislike about smoking, what you would like to change, and what it will look like when you have made the change. You also identify the steps you need to take to make the change, which is to work out the yearly cost of smoking in order to shock yourself into quitting."
+        }
+    },
+    "15": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: the relaxation \nme: You enjoy the feeling of relaxation that smoking provides.\nme: Now, what is the thing you like least about smoking?\nyou: that it is bad for my health \nme: You dislike that smoking causes health problems.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: cutting down and working towards stopping completely \nme: You want to quit smoking completely.\nme: What will it look like when you have made this change in your smoking habit?\nyou: to be healthier and have not cravings to smoke\nme: You realize that by making this change, you will be healthier and less likely to rely on cigarettes. \nme: Finally, what are the steps you need to take to make this change?\nyou: by cutting down on smoking with a goal to eventually quit completely \nme: You will need to cut down on smoking in order to be successful.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between us discussed the pros and cons of smoking, with the conclusion that the individual wants to quit completely. They recognize that by making this change, they will be healthier and have less cravings for cigarettes. To be successful, they need to cut down on smoking with a goal to eventually quit completely."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I discussed the pros and cons of smoking with myself and concluded that I want to quit completely. I recognize that by making this change, I will be healthier and have less cravings for cigarettes. To be successful, I need to cut down on smoking with a goal to eventually quit completely."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You discussed the pros and cons of smoking with yourself and concluded that you want to quit completely. You recognize that by making this change, you will be healthier and have less cravings for cigarettes. To be successful, you need to cut down on smoking with a goal to eventually quit completely."
+        }
+    },
+    "16": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: When I Inhale Cigarette Smoke Then Let It Go.\nme: You enjoy the feeling of inhaling cigarette smoke then letting it go.\nme: Now, what is the thing you like least about smoking?\nyou: I SPEND A LOT OF MONEY\nme: You spend a lot of money on cigarettes.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: DECREASE THE AMOUNT I SMOKE FROM 10 CIGARS TO 5 CIGARS.\nme: You want to reduce the number of cigarettes you smoke from 10 to 5 cigarettes per day.\nme: What will it look like when you have made this change in your smoking habit?\nyou: I THINK THE SAME APPEARANCE BUT BETTER HEALTH\nme: You believe that by making changes to your smoking habit, the appearance of the appearance of health will improve.\nme: Finally, what are the steps you need to take to make this change?\nyou: WILLFORCE AND DESIRE TO ACHIEVE IT.\nme: You want to make this change and you believe you will succeed.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between us was about smoking and the changes the person wanted to make. They enjoyed the feeling of inhaling and letting go of cigarette smoke, but disliked spending a lot of money on cigarettes. They wanted to reduce the number of cigarettes they smoked from 10 to 5 per day, believing that this would improve their health. The steps they need to take to make this change are willpower and desire to achieve it."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I was having a conversation with myself about smoking and the changes I wanted to make. I enjoyed the feeling of inhaling and letting go of cigarette smoke, but disliked spending a lot of money on cigarettes. I wanted to reduce the number of cigarettes I smoked from 10 to 5 per day, believing that this would improve my health. The steps I need to take to make this change are willpower and desire to achieve it."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You are having a conversation with yourself about smoking and the changes you want to make. You enjoy the feeling of inhaling and letting go of cigarette smoke, but dislike spending a lot of money on cigarettes. You want to reduce the number of cigarettes you smoke from 10 to 5 per day, believing that this will improve your health. The steps you need to take to make this change are willpower and desire to achieve it."
+        }
+    },
+    "17": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: The feeling of it, and, maybe i think it's cool.\nI like smoking to be honest.\nme: Thanks for letting me know.\nme: Now, what is the thing you like least about smoking?\nyou: it's expensive for me, and i smell bad.\nme: Thanks, I'm glad, this helps my listening skills\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: I would definitely like to smoke less chigarettes per day, like, a maximum of 5, and maybe stop smoking and start vaping.\nme: Great, let\u2019s continue\nme: What will it look like when you have made this change in your smoking habit?\nyou: i don't know really, i might feel a little better.\nme: Great, this lets me know I'm on the right track\nme: Finally, what are the steps you need to take to make this change?\nyou: Probably trying to smoke less and less each day, until i reach a point where i'm ok with how much i smoke.\nme: You feel that you need to reduce the amount of cigarettes you smoke as your habit increases.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation was about the speaker's smoking habit and the steps they need to take to make a change. They mentioned that they like the feeling of smoking and think it's cool, but don't like that it's expensive and they smell bad. They would like to reduce their smoking to a maximum of 5 cigarettes per day and possibly switch to vaping. They feel that the change will make them feel better and the steps they need to take are to reduce the amount of cigarettes they smoke until they are comfortable with the amount."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I like the feeling of smoking and think it's cool, but I don't like that it's expensive and I smell bad. I would like to reduce my smoking to a maximum of 5 cigarettes per day and possibly switch to vaping. I feel that the change will make me feel better and the steps I need to take are to reduce the amount of cigarettes I smoke until I am comfortable with the amount."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You like the feeling of smoking and think it's cool, but don't like that it's expensive and you smell bad. You would like to reduce your smoking to a maximum of 5 cigarettes per day and possibly switch to vaping. You feel that the change will make you feel better and the steps you need to take are to reduce the amount of cigarettes you smoke until you are comfortable with the amount."
+        }
+    },
+    "18": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: i think the activity itself, when you go out, usually with friends and smoke, i also like inhaling the smoke\nme: You find that smoking is an enjoyable social activity.\nme: Now, what is the thing you like least about smoking?\nyou: the taste in my mouth after smoking, i wish i could smoke something like herbs that wouldnt leave that taste \nme: You hate that your cigarette leaves a bitter taste in your mouth.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: i would like to stop smoking so much when im drunk\nme: You want to stop smoking so much when you are drinking alcohol.\nme: What will it look like when you have made this change in your smoking habit?\nyou: i wouldnt wake up with bitter taste in my mouth and feel bad\nme: You realize that as a smoker, you tend to spend time thinking about the consequences of smoking. You also realize that by cutting back on smoking, you can reduce the amount of negative effects on your health.\nme: Finally, what are the steps you need to take to make this change?\nyou: i think i need more self-discipline\nme: You realize that making changes will require self-control.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation is about the person's smoking habit and their desire to make a change. They enjoy the social activity of smoking, but dislike the bitter taste it leaves in their mouth. They want to stop smoking so much when they are drinking alcohol. They recognize that making changes will require self-control and that by cutting back on smoking, they can reduce the negative effects on their health."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I enjoy the social activity of smoking, but I dislike the bitter taste it leaves in my mouth. I want to stop smoking so much when I am drinking alcohol. I recognize that making changes will require self-control and that by cutting back on smoking, I can reduce the negative effects on my health."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You enjoy the social activity of smoking, but you dislike the bitter taste it leaves in your mouth. You want to stop smoking so much when you are drinking alcohol. You recognize that making changes will require self-control and that by cutting back on smoking, you can reduce the negative effects on your health."
+        }
+    },
+    "19": {
+        "data": "me: To start, what is the thing you like most about smoking?\nyou: the feeling of relaxation after\nme: You enjoy the way smoking relaxes you.\nme: Now, what is the thing you like least about smoking?\nyou: the smell\nme: You dislike the smell of cigarettes.\nme: Now, what is one thing about your smoking habit that you would like to change?\nyou: i would like to quit\nme: You want to stop smoking.\nme: What will it look like when you have made this change in your smoking habit?\nyou: i'll feel better\nme: You believe that by making this change, you will feel better physically and mentally.\nme: Finally, what are the steps you need to take to make this change?\nyou: progressively smoke less\nme: You would like to gradually reduce the amount of cigarettes you smoke.",
+        "0": {
+            "prompt": "Summarize the following conversation between you and me:",
+            "result": "The conversation between us was about smoking, and the things that the person liked and disliked about it. They expressed that they would like to quit, and that they believe that by doing so they will feel better. The steps they need to take to make this change is to gradually reduce the amount of cigarettes they smoke."
+        },
+        "1": {
+            "prompt": "Convert from third to first person:",
+            "result": "I was having a conversation about smoking with someone, and they expressed that they would like to quit. They said that they believe that by doing so, they will feel better. I suggested that they take the steps to gradually reduce the amount of cigarettes they smoke in order to make this change."
+        },
+        "2": {
+            "prompt": "Convert from first person to second person:",
+            "result": "You were having a conversation about smoking with someone, and they expressed that they would like to quit. They said that they believe that by doing so, they will feel better. You suggested that they take the steps to gradually reduce the amount of cigarettes they smoke in order to make this change."
+        }
+    }
+}

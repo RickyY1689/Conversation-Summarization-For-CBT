@@ -4,31 +4,23 @@ import openai
 import time
 import re
 
-openai.api_key = "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"
-
-input_path = "renamed_cleaned_transcripts.txt"
-output_path = "1_10_1.json"
-postprocessing = False
-
-dir_path = os.path.dirname(os.path.realpath(__file__))
-data_path = f"{dir_path}/../data/{input_path}"
-
-fileObject = open(data_path, "r")
-text = fileObject.read()
-convos = text.split("\n\n\n\n")
-
-prompt_seq = ["Summarize the following conversation between you and me:",
-              "Convert from third to first person:",
-              "Convert from first person to second person:"]
-res_dict = {}
-
-for temp in range(10, 11, 1):
-    output_path = f"1_10_1_temp_{float(temp/10)}.json"
-    print(f"Testing temp at {float(temp/10)}")
+for num in range(0, 5):
+    openai.api_key = os.getenv("OPENAI_API_KEY")
+    input_path = "cleaned_transcripts.txt"
+    output_path = f"1_10_1_MVP_{num}_temp80.json"
     postprocessing = False
 
     dir_path = os.path.dirname(os.path.realpath(__file__))
     data_path = f"{dir_path}/../data/{input_path}"
+
+    fileObject = open(data_path, "r")
+    text = fileObject.read()
+    convos = text.split("\n\n\n\n")
+
+    prompt_seq = ["Summarize this text message conversation between me and you in second person:"]
+
+    res_dict = {}
+
     for i, convo in enumerate(convos):
         if i%10==0 and i!=0:
             time.sleep(10)
@@ -37,12 +29,12 @@ for temp in range(10, 11, 1):
         print(f"------------ Convo Number #{i+1} ------------")
         for j, prompt in enumerate(prompt_seq):
             response = openai.Completion.create(model="text-davinci-003",
-                            prompt=f"{prompt}\n\n{data}\n",
-                            temperature=float(temp/10),
-                            max_tokens=256,
-                            top_p=1,
-                            frequency_penalty=0,
-                            presence_penalty=0)
+                                                prompt=f"{prompt}\n\n{data}\n",
+                                                temperature=0.8,
+                                                max_tokens=256,
+                                                top_p=1,
+                                                frequency_penalty=0,
+                                                presence_penalty=0)
             
             data = response.choices[0].text.replace('\n', '')
             res_dict[i][j] = {}
