@@ -1,0 +1,22 @@
+{
+    "1": {
+        "param_name": "1",
+        "prompt_seq": [
+            "Summarize this text message conversation between me and you in second person:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 10,
+        "input_path": "renamed_cleaned_transcripts.txt"
+    },
+    "2": {
+        "param_name": "2",
+        "prompt_seq": [
+            "Summarize the following conversation between the BOT and the USER:",
+            "Convert from third to first person:",
+            "Convert from first person to second person:"
+        ],
+        "model": "text-davinci-002",
+        "runs": 20,
+        "input_path": "cleaned_transcripts.txt"
+    }
+}
