@@ -88,7 +88,7 @@ def run_experiments(params):
 
 
 data_df = pd.DataFrame(columns=["param", "convo_num", "summary", "classification"])
-Param = namedtuple('Param', ['param_name', 'prompt_seq', 'model', 'runs', 'input_path'])
+Param = namedtudple('Param', ['param_name', 'prompt_seq', 'model', 'runs', 'input_path'])
 
 param1 = Param("1", ["Summarize this text message conversation between me and you in second person:"],
                "text-davinci-003", 10, "renamed_cleaned_transcripts.txt")
