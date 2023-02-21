@@ -9,11 +9,11 @@ def remove_noise(convo):
 def change_names(convo):
     cleaned_convo = [None] * len(convo)
     for i in range(0, len(convo)):
-        cleaned_convo[i] = convo[i].replace("BOT", "me").replace("USER", "you")
+        cleaned_convo[i] = convo[i].replace("BOT", "therapist").replace("USER", "client")
     return cleaned_convo
 
-input_file = "cleaned_transcripts.txt"
-output_file = "renamed_cleaned_transcripts.txt"
+input_file = "transcripts.txt"
+output_file = "therapist_client_transcripts.txt"
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 data_path = f"{dir_path}/../data/{input_file}"

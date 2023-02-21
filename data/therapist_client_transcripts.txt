@@ -1,0 +1,637 @@
+therapist: To start, what is the thing you like most about smoking?
+client: how it relaxes me
+therapist: You enjoy the way smoking calms you.
+therapist: Did that make sense?
+client: si
+therapist: Thanks for letting me know.
+therapist: Now, what is the thing you like least about smoking?
+client: the smell
+therapist: You dislike the smell of cigarettes.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: quiting smoking
+therapist: You want to make a conscious choice to quit smoking.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: i will look more healthy
+therapist: You realize that smoking is harmful to your health and you are determined to make changes to improve your appearance.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: willpower
+therapist: You realize that making changes will require your willpower.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: I like the feeling I get from it of course, and also, I enjoy the physical act.
+therapist: You enjoy the fact that smoking makes you feel calm and relaxed.
+therapist: Did that make sense?
+client: Yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: The smell
+therapist: You dislike the smell of cigarettes.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: Nothing actually
+therapist: You want to quit smoking completely.
+therapist: Did that make sense?
+client: no
+therapist: Sorry, I appreciate your patience.
+therapist: What will it look like when you have made this change in your smoking habit?
+client: I don't want to make a change.
+therapist: You realize that making the change will require discipline and persistence.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: Well, if I wanted to smoke less, I suppose I would possibly try to keep myself busy in other ways
+therapist: You realize that it is not just a matter of smoking less, but also of staying busy in other ways.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: stress relief
+therapist: You enjoy the relief that smoking provides you.
+therapist: Did that make sense?
+client: Yes.
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: Health issues.
+therapist: You are aware of the health risks associated with smoking and are concerned about your own health.
+therapist: Did what I said make sense to you?
+client: Yes.
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: Smoking among friends.
+therapist: You would like to stop smoking among your friends.
+therapist: Did that make sense?
+client: Yeah.
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: Stop smoking or smoking less
+therapist: You will stop smoking completely.
+therapist: Does this make sense to you?
+client: Yes.
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: Taking nicotine tablets.
+therapist: You realize that you need to replace smoking with nicotine replacement therapy (NRT).
+therapist: Did that make sense?
+client: Yea
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: wszystko
+therapist: You enjoy the smell of cigarettes.
+therapist: Did that make sense?
+client: yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: cough
+therapist: You dislike how it makes you breathe and how unpleasant it is to have a cough.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: all
+therapist: You want to stop smoking altogether.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: I don't know, I have to replace it with something but I don't know what
+therapist: You don't know how you will replace smoking with something else.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: I need a replacement, for starters
+therapist: You want a substitute smoking habit and you believe that your current one is causing harm.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: Flavor and relaxation
+therapist: You enjoy the taste of tobacco and are looking for ways to relax.
+therapist: Did that make sense?
+client: Yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: Health damage
+therapist: You are concerned about the health effects of smoking.
+therapist: Did what I said make sense to you?
+client: Yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: Number of cigarretes
+therapist: You'd like to reduce the number of cigarettes you smoke.
+therapist: Did that make sense?
+client: Yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: Better health and odor
+therapist: You believe that by making changes to your smoking habit, you will be able to improve our health and smell.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: Discipline, 
+therapist: You realize that making this change will require discipline.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: Flavor and relaxation
+therapist: You enjoy the taste of tobacco and are looking for ways to relax.
+therapist: Did that make sense?
+client: Yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: Health damage
+therapist: You are concerned about the health effects of smoking.
+therapist: Did what I said make sense to you?
+client: Yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: Number of cigarretes
+therapist: You'd like to reduce the number of cigarettes you smoke.
+therapist: Did that make sense?
+client: Yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: Better health and odor
+therapist: You believe that by making changes to your smoking habit, you will be able to improve your health and smell.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: Discipline, 
+therapist: You realize that making this change will require discipline.
+therapist: Did that make sense?
+client: yes
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: combining it with cannabis
+therapist: You enjoy mixing your smoking and cannabis habit together.
+therapist: Did that make sense?
+client: yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: the health implications
+therapist: You are aware that smoking causes serious health problems and you worry about the effect of this habit on your own health.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: the amount I smoke
+therapist: You realize that a reduction in the amount of cigarettes you smoke will help you to live a healthier life.
+therapist: Did that make sense?
+client: i do
+therapist: Thank you for clarifying, this helps me improve!
+therapist: What will it look like when you have made this change in your smoking habit?
+client: hopefully healthier lungs and general health
+therapist: You believe that by making this change, you can improve your overall health.
+therapist: Does this make sense to you?
+client: yes, my physical health
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: slowly reducing the amount that I smoke
+therapist: You realize that decreasing the amount of cigarettes you smoke daily will help you quit smoking.
+therapist: Did that make sense?
+client: yeah
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: Having to relax and unwind, taking short breaks at work. 
+therapist: You enjoy relaxing by smoking cigarettes.
+therapist: Did that make sense?
+client: Yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: Being addicted to it. 
+therapist: You are aware that cigarettes can cause addiction. 
+therapist: Did what I said make sense to you?
+client: Yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: Atleast smoke 2 cigarettes per day
+therapist: You want to reduce the number of cigarettes you smoke per day.
+therapist: Did that make sense?
+client: Yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: Smoking less
+therapist: You want to reduce the amount of cigarettes you smoke.
+therapist: Does this make sense to you?
+client: Yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: Smoke in the morning and in the evening. 
+therapist: You will smoke in the morning and at night.
+therapist: Did that make sense?
+client: Yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: I dont know really, I just like that feeling
+therapist: You like the fact that smoking gives you a buzz.
+therapist: Did that make sense?
+client: Yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: That its bad for my health
+therapist: You dislike that cigarettes are addictive and can harm your health.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: I would like to reduce smoking slowly then quit at all
+therapist: You want to gradually reduce the number of cigarettes you smoke.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: i would feel better with myself and also proud
+therapist: You believe that by making this change, your life will improve.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: Create a detailed plan with exact Number of cigarettes that i am allowed to smoke each day
+therapist: You realize that you will need to make changes in your smoking habit.
+therapist: Did that make sense?
+client: yes, kind of
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: The habit of it - it either fills the time, is a stress release or social 
+therapist: You enjoy the fact that smoking helps you cope with stressful situations.
+therapist: Did that make sense?
+client: yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: the health consequences
+therapist: You dislike the health effects of smoking.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: i'd like to just stop completely 
+therapist: You want to quit smoking completely.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: i won't smoke anymore
+therapist: You realize that quitting smoking is a long process, and you are willing to put in the effort to succeed.
+therapist: Does this make sense to you?
+client: yes but i am not willing to put in the effort
+therapist: I see, thanks for telling me!
+therapist: Finally, what are the steps you need to take to make this change?
+client: to stop smoking on nights out mostly 
+therapist: You will need to find other ways to cope with your smoking habit.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: The joy that I feel
+therapist: You enjoy feeling happy when you smoke. 
+therapist: Did that make sense?
+client: yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: the smell in my clothes
+therapist: You are aware of how unpleasant cigarettes can be and are aware that this bothers you.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: reduce consumption
+therapist: You want to reduce the amount of cigarettes you smoke.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: I will feel happy
+therapist: You believe making changes to your smoking habit will bring you happiness.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: First to reduce, second to definitively cut
+therapist: You realize that tobacco use is a habit and you will need to make changes at first. What are the steps you need to take to reduce your tobacco use?
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: Smoking punctuates my day
+therapist: You enjoy how smoking fills up your free time.
+therapist: Did that make sense?
+client: Yes but not necessarily my free time. I like smoking when I'm concentrating on my work too.
+therapist: Thanks for letting me know.
+therapist: Now, what is the thing you like least about smoking?
+client: I suspect it makes me feel more tired than I would feel if I didn't smoke.
+therapist: You find that smoking causes you to feel tired, which can negatively impact your day-to-day activities.
+therapist: Did what I said make sense to you?
+client: Yes.
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: Nothing.
+therapist: You're not interested in making changes to your smoking habit.
+therapist: Did that make sense?
+client: Yes it did.
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: What will what look like?
+therapist: You expect to feel better about yourself because of your new smoking habit.
+therapist: Does this make sense to you?
+client: Hmmm, sort of. Your sentence made sense but your understanding of what I said isn't correct. I wouldn't necessarily feel better about myself but I may feel less tired.
+therapist: I see, thanks for telling me!
+therapist: Finally, what are the steps you need to take to make this change?
+client: Stop smoking! But I don't need to take this step as I don't wish to at the moment. Maybe, one day, I will.
+therapist: You realize that it is important for you to quit smoking, but you don't want to at the moment.
+therapist: Did that make sense?
+client: Yes it made sense. I'm not sure though that I feel it is important. You are putting words into my mouth :)
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: relaxing, it makes breaks feel like a break
+therapist: You enjoy the feeling of relaxation that smoking provides.
+therapist: Did that make sense?
+client: yes it does
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: my addiction and the way I feel I have to have a cigarette, plus how much it costs
+therapist: You dislike the fact that cigarettes are addictive and you also dislike the financial cost of smoking.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: I would like to stop feeling like I have to smoke in certain cirmustances, like when I'm out drinking with certain friends. It feels odd not to smoke then even when I don't feel I need a cigerette
+therapist: You realize that sometimes, smoking can be an integral part of social gatherings and that you often feel pressured into smoking by those around you. 
+therapist: Did that make sense?
+client: yes, not pressured by the people around me as such but it feels off/strange not to smoke
+therapist: Thank you for clarifying, this helps me improve!
+therapist: What will it look like when you have made this change in your smoking habit?
+client: I'll be relaxed in these cirumstances not smoking even if other people are smoking. I won't feel the need to join in
+therapist: You will be more relaxed and less stressed when making this change in your smoking habit. 
+therapist: Does this make sense to you?
+client: yes, I also won't have any internal need to do the same things my friends are doing
+therapist: I see, thanks for telling me!
+therapist: Finally, what are the steps you need to take to make this change?
+client: perhaps make a point of going out with friends who don't smoke more often.  I need to get more comfortable being out with friends and not smoking, so not joining in until I feel more comfortable about
+therapist: You realize that you need to be comfortable being out with your friends without cigarettes, and you will try to do this by making it a point to go out alone.
+therapist: Did that make sense?
+client: sort of, more going out with different friends and making myself not smoke when I'm with friends who are smoking
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: the feeling it gives me of anti-stress
+therapist: Smoking helps you deal with stressful situations.
+therapist: Did that make sense?
+client: yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: the smell
+therapist: You dislike the smell of cigarettes.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: i would like to smoke a lot least 
+therapist: You want to smoke less.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: i dont know how to answer
+therapist: You are not sure how to respond to the question. 
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: motivation to do so
+therapist: You need to be motivated to make this change.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: the relaxation whist having one
+therapist: You enjoy the feeling of being relaxed after a cigarette.
+therapist: Did that make sense?
+client: yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: smell
+therapist: You dislike the way cigarette smoke smells.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: the cost of cigarettes 
+therapist: You realize that smoking is costly and you would like to reduce or stop it.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: i would have more money
+therapist: You believe making this change in your smoking habit will improve your financial situation.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: work out what the yearly cost is as it may shock me into quitting by knowing how much im spending
+therapist: You realize that if you quit smoking now, you'll be surprised by how much you're spending over the next year.
+therapist: Did that make sense?
+client: kinda, whats your name?
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: the relaxation 
+therapist: You enjoy the feeling of relaxation that smoking provides.
+therapist: Did that make sense?
+client: yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: that it is bad for my health 
+therapist: You dislike that smoking causes health problems.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: cutting down and working towards stopping completely 
+therapist: You want to quit smoking completely.
+therapist: Did that make sense?
+client: yes 
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: to be healthier and have not cravings to smoke
+therapist: You realize that by making this change, you will be healthier and less likely to rely on cigarettes. 
+therapist: Does this make sense to you?
+client: sort of 
+therapist: I see, thanks for telling me!
+therapist: Finally, what are the steps you need to take to make this change?
+client: by cutting down on smoking with a goal to eventually quit completely 
+therapist: You will need to cut down on smoking in order to be successful.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: When I Inhale Cigarette Smoke Then Let It Go.
+therapist: You enjoy the feeling of inhaling cigarette smoke then letting it go.
+therapist: Did that make sense?
+client: YES
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: I SPEND A LOT OF MONEY
+therapist: You spend a lot of money on cigarettes.
+therapist: Did what I said make sense to you?
+client: YES
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: DECREASE THE AMOUNT I SMOKE FROM 10 CIGARS TO 5 CIGARS.
+therapist: You want to reduce the number of cigarettes you smoke from 10 to 5 cigarettes per day.
+therapist: Did that make sense?
+client: YES
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: I THINK THE SAME APPEARANCE BUT BETTER HEALTH
+therapist: You believe that by making changes to your smoking habit, the appearance of the appearance of health will improve.
+therapist: Does this make sense to you?
+client: NO
+therapist: Thanks for being honest, I will try harder.
+therapist: Finally, what are the steps you need to take to make this change?
+client: WILLFORCE AND DESIRE TO ACHIEVE IT.
+therapist: You want to make this change and you believe you will succeed.
+therapist: Did that make sense?
+client: NO
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: The feeling of it, and, maybe i think it's cool.
+I like smoking to be honest.
+therapist: You enjoy the feeling of smoking itself, as well as the social aspects of it.
+therapist: Did that make sense?
+client: Yeah, although, i don't enjoy all the social aspects of it, i enjoy many of them.
+therapist: Thanks for letting me know.
+therapist: Now, what is the thing you like least about smoking?
+client: it's expensive for me, and i smell bad.
+therapist: You dislike how expensive cigarettes are, and you don't like how they make you smell.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: I would definitely like to smoke less chigarettes per day, like, a maximum of 5, and maybe stop smoking and start vaping.
+therapist: You realize that reducing the amount of cigarettes you smoke each day will help you quit smoking for good.
+therapist: Did that make sense?
+client: yeah that's probably right.
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: i don't know really, i might feel a little better.
+therapist: You are unsure how much you will feel better but you think you will feel better in the long run.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: Probably trying to smoke less and less each day, until i reach a point where i'm ok with how much i smoke.
+therapist: You feel that you need to reduce the amount of cigarettes you smoke as your habit increases.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: i think the activity itself, when you go out, usually with friends and smoke, i also like inhaling the smoke
+therapist: You find that smoking is an enjoyable social activity.
+therapist: Did that make sense?
+client: yes 
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: the taste in my mouth after smoking, i wish i could smoke something like herbs that wouldnt leave that taste 
+therapist: You hate that your cigarette leaves a bitter taste in your mouth.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: i would like to stop smoking so much when im drunk
+therapist: You want to stop smoking so much when you are drinking alcohol.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: i wouldnt wake up with bitter taste in my mouth and feel bad
+therapist: You realize that as a smoker, you tend to spend time thinking about the consequences of smoking. You also realize that by cutting back on smoking, you can reduce the amount of negative effects on your health.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: i think i need more self-discipline
+therapist: You realize that making changes will require self-control.
+therapist: Did that make sense?
+client: yes
+
+
+
+therapist: To start, what is the thing you like most about smoking?
+client: the feeling of relaxation after
+therapist: You enjoy the way smoking relaxes you.
+therapist: Did that make sense?
+client: yes
+therapist: That's great to hear, thanks for letting me know!
+therapist: Now, what is the thing you like least about smoking?
+client: the smell
+therapist: You dislike the smell of cigarettes.
+therapist: Did what I said make sense to you?
+client: yes
+therapist: Thanks, I'm glad, this helps my listening skills
+therapist: Now, what is one thing about your smoking habit that you would like to change?
+client: i would like to quit
+therapist: You want to stop smoking.
+therapist: Did that make sense?
+client: yes
+therapist: Great, let’s continue
+therapist: What will it look like when you have made this change in your smoking habit?
+client: i'll feel better
+therapist: You believe that by making this change, you will feel better physically and mentally.
+therapist: Does this make sense to you?
+client: yes
+therapist: Great, this lets me know I'm on the right track
+therapist: Finally, what are the steps you need to take to make this change?
+client: progressively smoke less
+therapist: You would like to gradually reduce the amount of cigarettes you smoke.
+therapist: Did that make sense?
+client: yes

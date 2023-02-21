@@ -84,21 +84,22 @@ def run_experiments(params):
                     })], ignore_index=True)
    
         # Write out after every run through the convos in case code crashes midway through
-        data_df.to_csv("results.csv")
+        data_df.to_csv(f"./experiment_results/{param.output_file_name}")
 
 
 data_df = pd.DataFrame(columns=["param", "convo_num", "summary", "classification"])
-Param = namedtudple('Param', ['param_name', 'prompt_seq', 'model', 'runs', 'input_path'])
+Param = namedtuple('Param', ['param_name', 'prompt_seq', 'model', 'runs', 'input_path', 'output_file_name'])
 
 param1 = Param("1", ["Summarize this text message conversation between me and you in second person:"],
                "text-davinci-003", 10, "renamed_cleaned_transcripts.txt")
-param2 = Param("2", ["Summarize the following conversation between the BOT and the USER:",
-               "Convert from third to first person:",
-               "Convert from first person to second person:"], 
-               "text-davinci-002", 20, "cleaned_transcripts.txt")
+# param2 = Param("2", ["Summarize the following conversation between the BOT and the USER:",
+#                "Convert from third to first person:",
+#                "Convert from first person to second person:"], 
+#                "text-davinci-002", 20, "cleaned_transcripts.txt")
+param = Param("MegaPrompt", ["Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. End with an open-ended question that encourages the client to think more about their commitment to change by asking a question that doesn't have a simple yes or no answer, and that invites the client to reflect on what they've shared. The conversation is as follows:"],
+              "text-davinci-003", 1, "therapist_client_transcripts.txt", "2_21_1_mega_prompt.csv")
 params = [
-            param1, 
-            param2
+            param
          ]
 
 if update_json_params(params):

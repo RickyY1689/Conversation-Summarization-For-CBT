@@ -6,7 +6,8 @@
         ],
         "model": "text-davinci-003",
         "runs": 10,
-        "input_path": "renamed_cleaned_transcripts.txt"
+        "input_path": "renamed_cleaned_transcripts.txt",
+        "output_path": null
     },
     "2": {
         "param_name": "2",
@@ -17,6 +18,17 @@
         ],
         "model": "text-davinci-002",
         "runs": 20,
-        "input_path": "cleaned_transcripts.txt"
+        "input_path": "cleaned_transcripts.txt",
+        "output_path": null
+    },
+    "MegaPrompt": {
+        "param_name": "MegaPrompt",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. End with an open-ended question that encourages the client to think more about their commitment to change by asking a question that doesn't have a simple yes or no answer, and that invites the client to reflect on what they've shared. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "2_21_1_mega_prompt.csv"
     }
 }
