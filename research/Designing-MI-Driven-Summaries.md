@@ -1,8 +1,54 @@
-# Designing an MI Aligned Summarization Prompt
+# Designing an MI Aderant Summarization Prompt
 
 ## Preview
 
-> Therapist: To start, what is the thing you like most about smoking? 															Client: I like the feeling I get from it of course, and also, I enjoy the physical act. 									Therapist: You enjoy the fact that smoking makes you feel calm and relaxed.									Therapist: Did that make sense? 																													Client: Yes 																																					Therapist: Now, what is the thing you like least about smoking? 																Client: The smell Therapist: You dislike the smell of cigarettes. 																Therapist: Did what I said make sense to you? 																							Client: yes 																																					Therapist: Now, what is one thing about your smoking habit that you would like to change? 					Client: Nothing actually 																															Therapist: You want to quit smoking completely. 																					Therapist: Did that make sense? 																													Client: no 																																					Therapist: What will it look like when you have made this change in your smoking habit? 						Client: I don't want to make a change. 																									Therapist: You realize that making the change will require discipline and persistence. 							Therapist: Does this make sense to you? 																										Client: yes Therapist: Finally, what are the steps you need to take to make this change?                         Client: Well, if I wanted to smoke less, I suppose I would possibly try to keep myself busy in other ways Therapist: You realize that it is not just a matter of smoking less, but also of staying busy in other ways. Therapist: Did that make sense?          																											Client: yes
+> Therapist: To start, what is the thing you like most about smoking? 															
+>
+> Client: I like the feeling I get from it of course, and also, I enjoy the physical act. 									
+>
+> Therapist: You enjoy the fact that smoking makes you feel calm and relaxed.									
+>
+> Therapist: Did that make sense? 																													
+>
+> Client: Yes 																																					
+>
+> Therapist: Now, what is the thing you like least about smoking? 																
+>
+> Client: The smell Therapist: You dislike the smell of cigarettes. 																
+>
+> Therapist: Did what I said make sense to you? 																							
+>
+> Client: yes 																																					
+>
+> Therapist: Now, what is one thing about your smoking habit that you would like to change? 					
+>
+> Client: Nothing actually 																															
+>
+> Therapist: You want to quit smoking completely. 																					
+>
+> Therapist: Did that make sense? 																													
+>
+> Client: no 																																					
+>
+> Therapist: What will it look like when you have made this change in your smoking habit? 						
+>
+> Client: I don't want to make a change. 																									
+>
+> Therapist: You realize that making the change will require discipline and persistence. 							
+>
+> Therapist: Does this make sense to you? 																										
+>
+> Client: yes 																																					
+>
+> Therapist: Finally, what are the steps you need to take to make this change?                         					
+>
+> Client: Well, if I wanted to smoke less, I suppose I would possibly try to keep myself busy in other ways
+>
+> Therapist: You realize that it is not just a matter of smoking less, but also of staying busy in other ways. 
+>
+> Therapist: Did that make sense?          																											
+>
+> Client: yes
 
 Over the course of this document we'll go over how given the text conversation above we improve our summarization from:
 
@@ -55,7 +101,7 @@ To this:
 - We can use this as a launch point to determine a list of things that would make a good summary (all bullet points are paraphrased from various sections of the MI textbook)
   - We want to capture what the client has discussed
     - Should focus on the feelings the client has expressed
-    - It should contain important goal-oriented component of the evoking process and is should increase the changes of creating movement in the direction of change
+    - It should contain important goal-oriented component of the evoking process and is should increase the chances of creating movement in the direction of change
     - Should capture the client's change talk and present it in a way that is consciously directed toward change
   - The summary should have an air of "talk therapy"-ness
     - Summaries should be client-centered in its perspective
@@ -167,7 +213,7 @@ This new prompt has undergone a number of changes:
 
 ## Takeaways
 
-We see from this sequence of experiments that Davinci-003 holds the potential to generate effective MI-driven summaries that meet the quality we are seeking however we have yet to test this across a larger collection of data to fully verify if our current prompt is sufficient.
+We see from this sequence of experiments that Davinci-003 holds the potential to generate effective MI-aderent summaries that meet the quality we are seeking however we have yet to test this across a larger collection of data to fully verify if our current prompt is sufficient.
 
 Additionally, we recognize that our current text transcripts actually removed too much information. By keeping in the client's response to "did that make sense", it helped provide a more accurate summary.
 

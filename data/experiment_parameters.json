@@ -30,5 +30,254 @@
         "runs": 1,
         "input_path": "therapist_client_transcripts.txt",
         "output_file_name": "2_21_1_mega_prompt.csv"
+    },
+    "MegaPrompt2": {
+        "param_name": "MegaPrompt2",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. End by asking the client whether this summary adequately captures the conversation and whether the client would like to add anything the therapist missed. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_15_1_mega_prompt_2.csv"
+    },
+    "MegaPrompt3": {
+        "param_name": "MegaPrompt3",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. End by asking the client a question that gauges whether this summary adequately captures the conversation and if the client would like to add anything the therapist missed. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_15_1_mega_prompt_3.csv"
+    },
+    "LongPrompt": {
+        "param_name": "LongPrompt",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. End the reply by asking the client a single question that both gauges whether this summary adequately captures the conversation and whether the client would like to add anything the therapist missed. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_mega_prompt_1.csv"
+    },
+    "LongPrompt2": {
+        "param_name": "LongPrompt2",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. End the reply by asking the client a single question that gives the client an opportunity to add anything that may have been missed. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_mega_prompt_2.csv"
+    },
+    "LongPrompt3": {
+        "param_name": "LongPrompt3",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Wrap the conversation up by asking the client a single question that gives the client an opportunity to add anything that may have been missed in your reply. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_mega_prompt_3.csv"
+    },
+    "LongPrompt4": {
+        "param_name": "LongPrompt4",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Wrap the conversation up by giving the client an opportunity to add anything that may have been missed in your reply. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_mega_prompt_4.csv"
+    },
+    "LongPrompt5": {
+        "param_name": "LongPrompt5",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if they would like to add anything that may have been missed in your reply before ending this conversation. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_mega_prompt_5.csv"
+    },
+    "LongPrompt6": {
+        "param_name": "LongPrompt6",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_mega_prompt_6.csv"
+    },
+    "LongPrompt7": {
+        "param_name": "LongPrompt7",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not evoke new topics of discussion and only serves to verify nothing was missed in your response. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_mega_prompt_7.csv"
+    },
+    "LongPrompt8": {
+        "param_name": "LongPrompt8",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_mega_prompt_8.csv"
+    },
+    "Preface_Long_Prompt": {
+        "param_name": "Preface_Long_Prompt",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. First, write a single sentence that informs the client you will now take a moment to summarize the conversation you've had. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_preface_long_prompt_1.csv"
+    },
+    "Preface_Long_Prompt_2": {
+        "param_name": "Preface_Long_Prompt_2",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist summarizing the conversation so far. First, write a single sentence that informs the client you will now take a moment to summarize the conversation you've had to make sure you understand what the client has said. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_preface_long_prompt_2.csv"
+    },
+    "Preface_Long_Prompt_3": {
+        "param_name": "Preface_Long_Prompt_3",
+        "prompt_seq": [
+            "Write a reply from the perspective of the therapist. First, write a single sentence that informs the client you will now take a moment to summarize the conversation you've had to make sure you understand what the client has said. Now summarize the conversation so far keeping in mind the following guidelines. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:"
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_path": "therapist_client_transcripts.txt",
+        "output_file_name": "3_19_1_preface_long_prompt_3.csv"
+    },
+    "MPA1": {
+        "param_name": "MPA1",
+        "prompts": [
+            [
+                "As a therapist provide a single sentence explaining to your client that you will now take a moment to summarize your conversation with them to ensure you understand what the client has said so far."
+            ],
+            [
+                "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:"
+            ]
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_paths": [
+            null,
+            "therapist_client_transcripts.txt"
+        ],
+        "data_samples": 20,
+        "output_file_name": "3_20_MPA1.csv"
+    },
+    "MPA2": {
+        "param_name": "MPA2",
+        "prompts": [
+            [
+                "As a therapist provide a single sentence explaining to your client that you will now take a moment to summarize your conversation with them to ensure you understand what the client has said so far."
+            ],
+            [
+                "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:",
+                "Assume you are rewriting a message from a therapist to their client. Assuming the role of the therapist, rewrite sentences beginning with 'You' into sentences beginning with 'I' while still addressing the client. The rewritten sentence should emphasize your feelings, thoughts, or beliefs about a situation, without assigning blame or making accusations to the client. The message is as follows:"
+            ]
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_paths": [
+            null,
+            "therapist_client_transcripts.txt"
+        ],
+        "data_samples": 20,
+        "output_file_name": "3_20_MPA2.csv"
+    },
+    "MPA3": {
+        "param_name": "MPA3",
+        "prompts": [
+            [
+                "As a therapist provide a single sentence explaining to your client that you will now take a moment to summarize your conversation with them to ensure you understand what the client has said so far."
+            ],
+            [
+                "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:",
+                "You are rewriting a message from a therapist to their client. Assume the role of the therapist and rewrite all sentences that begin with 'You'. These sentences must be rewritten to begin with 'I' while still having the sentence address the client. The message is as follows:"
+            ]
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_paths": [
+            null,
+            "therapist_client_transcripts.txt"
+        ],
+        "data_samples": 20,
+        "output_file_name": "3_20_MPA3.csv"
+    },
+    "MPA4": {
+        "param_name": "MPA4",
+        "prompts": [
+            [
+                "As a therapist provide a single sentence explaining to your client that you will now take a moment to summarize your conversation with them to ensure you understand what the client has said so far."
+            ],
+            [
+                "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:",
+                "You are rewriting a message from a therapist to their client. Assume the role of the therapist and rewrite all sentences that begin with 'You'. These sentences must be rewritten to begin with 'I' while still having the sentence address the client. The message is as follows:"
+            ]
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_paths": [
+            null,
+            "therapist_client_transcripts.txt"
+        ],
+        "data_samples": 20,
+        "output_file_name": "3_20_MPA4.csv"
+    },
+    "MPA5": {
+        "param_name": "MPA5",
+        "prompts": [
+            [
+                "As a therapist provide a single sentence explaining to your client that you will now take a moment to summarize your conversation with them to ensure you understand what the client has said so far."
+            ],
+            [
+                "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:",
+                "You are rewriting a message from a therapist to their client. Assume the role of the therapist and rewrite every sentence in the message that begins with 'You'. These rewritten sentences should instead begin with phrases similar to phrases like 'It sounds like you' or 'What I'm hearing is that'. Ensure the rewritten sentences still address the client and contain zero sentences starting with 'You'. Sentences that do not start with 'You' must be left unchanged. The message is as follows:"
+            ]
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_paths": [
+            null,
+            "therapist_client_transcripts.txt"
+        ],
+        "data_samples": 20,
+        "output_file_name": "3_20_MPA5.csv"
+    },
+    "MPA6": {
+        "param_name": "MPA6",
+        "prompts": [
+            [
+                "As a therapist provide a single sentence explaining to your client that you will now take a moment to summarize your conversation with them to ensure you understand what the client has said so far."
+            ],
+            [
+                "Write a reply from the perspective of the therapist summarizing the conversation so far. Focus on the client's feelings and experiences, and show that you understand and accept what they're going through. Summarize what the client said in a way that acknowledges their emotions and perspective. Encourage the client to think about the reasons they want to change, and summarize these reasons in a way that's clear and easy to understand. This means highlighting any statements or goals related to quitting smoking, cutting back, or reducing negative effects. Finishing by asking the client if anything was missed in your reply before ending this conversation. This question must not ask the client to discuss new topics and only serves to verify nothing was missed in your response. The conversation is as follows:",
+                "You are rewriting a message from a therapist to their client. Assume the role of the therapist and rewrite every sentence in the message that begins with 'You' such that no rewritten sentence begins with 'You'. These rewritten sentences should instead begin with phrases similar to phrases like 'It sounds like you' or 'What I'm hearing is that'. Ensure the rewritten sentences still address the client. Sentences that do not start with 'You' must be left unchanged. The message is as follows:"
+            ]
+        ],
+        "model": "text-davinci-003",
+        "runs": 1,
+        "input_paths": [
+            null,
+            "therapist_client_transcripts.txt"
+        ],
+        "data_samples": 20,
+        "output_file_name": "3_20_MPA6.csv"
     }
 }

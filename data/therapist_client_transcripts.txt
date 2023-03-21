@@ -189,6 +189,7 @@ therapist: Did that make sense?
 client: yes
 
 
+
 therapist: To start, what is the thing you like most about smoking?
 client: combining it with cannabis
 therapist: You enjoy mixing your smoking and cannabis habit together.
